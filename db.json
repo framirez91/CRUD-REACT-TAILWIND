@@ -1,0 +1,47 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan2",
+      "empresa": "CompanyA",
+      "email": "juan1@correo.com",
+      "telefono": "123456789",
+      "notas": "asd",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Pedro",
+      "telefono": "987654321",
+      "email": "pedro@correo.com",
+      "empresa": "CompanyB"
+    },
+    {
+      "id": "3",
+      "nombre": "Maria",
+      "telefono": "456789012",
+      "email": "maria@correo.com",
+      "empresa": "CompanyC"
+    },
+    {
+      "id": "4",
+      "nombre": "Luis",
+      "telefono": "789012345",
+      "email": "luis@correo.com",
+      "empresa": "CompanyD"
+    },
+    {
+      "id": "5",
+      "nombre": "Ana",
+      "telefono": "234567890",
+      "email": "ana@correo.com",
+      "empresa": "CompanyE"
+    },
+    {
+      "id": "6",
+      "nombre": "Carlos",
+      "telefono": "012345678",
+      "email": "carlos@correo.com",
+      "empresa": "CompanyF"
+    }
+  ]
+}
